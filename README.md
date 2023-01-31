@@ -1,19 +1,20 @@
 Hi!
 
-I am Kaisar Kertarajasa, also known as pravdaknowledge, a drawing programmer.
+I am Kaisar Kertarajasa, a drawing programmer.
 
 I am now proficient in: 
 
 - HTML
 - Basic Python
 - Go
-- C++
+- C/C++
 
 Currently I am learning:
 
 - Java
 - Javascript
 - Flutter
+- Common Lisp
 
 I am interested in mobile and web development.
 
