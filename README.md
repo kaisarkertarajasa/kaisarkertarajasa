@@ -2,7 +2,7 @@
    👋️ Kaizaa-kun is here!!! 
 </h1>
 
-
+<img src="https://github.com/kaizaadesuka/kaizaadesuka/blob/main/20230324_banner.png">
 
 <h3 align="center">
    A computer science student who loves to draw.
