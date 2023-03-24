@@ -17,7 +17,7 @@
 
 
 - 👑️ I am interested in **AI**, **CyberSec**, **Web Programming**, and **Functional Programming**.
-- 🌱️ I am currently learning **C**, **Go**, **Rust**, **Javascript**, **Common Lisp**, **Elixir**, and **Clojure**.
+- 🌱️ I am currently learning **Python**, **C**, **Go**, **Rust**, **Javascript**, **Common Lisp**, **Elixir**, and **Clojure**.
 - ⚡️ **Fun Facts**:
    - I have been interacting with computers since I was 2 y.o.
    - I am more like an introverted, melancholic type of person.
