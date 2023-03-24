@@ -2,31 +2,29 @@
    👋️ Kaizaa-kun is here!!! 
 </h1>
 
+
+
+<h3 align="center">
+   A computer science student who loves to draw.
+</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaizaadesuka">
 </p>
-  
-Hi!
 
-I am Kaisar Kertarajasa, a drawing programmer.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaizaadesuka&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizaadesuka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-I am now proficient in: 
 
-- HTML
-- Basic Python
-- Go
-- C/C++
+- 👑️ I am interested in **AI**, **CyberSec**, **Web Programming**, and **Functional Programming**.
+- 🌱️ I am currently learning **C**, **Go**, **Rust**, **Javascript**, **Common Lisp**, **Elixir**, and **Clojure**.
+- ⚡️ **Fun Facts**:
+   - I have been interacting with computers since I was 2 y.o.
+   - I am more like an introverted, melancholic type of person.
+   - Favourite food: Steak. I don't like spicy foods and coffee.
+   - I enjoy Linux and BSD more than Windows and MacOS. 
+- 📫️ How to get in touch? 👇️
 
-Currently I am learning:
-
-- Java
-- Javascript
-- Flutter
-- Common Lisp
-
-I am interested in mobile and web development.
-
-Feel free to contact me! kaisarcomics@gmail.com
 
 ---
 ### 🛠️ Tools Used
@@ -46,7 +44,7 @@ Feel free to contact me! kaisarcomics@gmail.com
 </div>
 
 ---
-### 💻️ Programming Languages
+### 💻️ Programming Languages Learnt
 <div>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="48" height="48"/>&nbsp;
