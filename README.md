@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizaadesuka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 👀 I am interested in **AI**, **CyberSec**, **Web Programming**, and **Functional Programming**.
+- 👀 I am interested in **AI**, **CyberSec**, **Embedded Systems**, and **Functional Programming**.
 - 🌱️ I am currently learning **Python**, **C**, **Go**, **Rust**, **Javascript**, **Common Lisp**, **Elixir**, and **Clojure**.
 - ⚡️ **Fun Facts**:
    - I have been interacting with computers since I was 2 y.o.
