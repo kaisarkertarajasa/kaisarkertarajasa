@@ -17,7 +17,7 @@
 
 
 - 👀 I am interested in **AI**, **CyberSec**, **Embedded Systems**, and **Functional Programming**.
-- 🌱️ I am currently learning **Python**, **C**, **Go**, **Rust**, **Javascript**, **Common Lisp**, **Elixir**, and **Clojure**.
+- 🌱️ I am currently learning **Python**, **C**, **Common Lisp**, **Go**, **Elixir**, and **Clojure**.
 - ⚡️ **Fun Facts**:
    - I have been interacting with computers since I was 2 y.o.
    - I am more like an introverted, melancholic type of person.
@@ -78,9 +78,6 @@
   </a>
   <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48"/>&nbsp;
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48"/>&nbsp;
   </a>
 </div>
 
