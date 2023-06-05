@@ -15,12 +15,13 @@
 
 
 - 👀 I am interested in **AI**, **CyberSec**, **Embedded Systems**, and **Functional Programming**.
-- 🌱️ I am currently learning **Python**, **C**, **Common Lisp**, **Go**, **Elixir**, and **Clojure**.
+- 🌱️ I am currently learning **Python**, **C/C++**, **JavaScript**, **Go**, and **Common Lisp**.
 - ⚡️ **Fun Facts**:
    - I have been interacting with computers since I was 2 y.o.
    - I am more like an introverted, melancholic type of person.
    - Favourite food: Steak. I don't like spicy foods and coffee.
    - I enjoy Linux and BSD more than Windows and MacOS. 
+   - I don't really like Java programming language.
 - 📫️ How to get in touch? 👇️
 
 
