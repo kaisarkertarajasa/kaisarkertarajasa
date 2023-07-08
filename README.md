@@ -16,8 +16,10 @@
 - ♂️ I'm a male, btw.
 - Fun fact: I don't like Microsoft (especially Windows) and Apple, as well as Java programming language.
 
-<h3>How to get in touch?</h3>
-<img src="mail.png">
+<h3 align="center">How to get in touch?</h3>
+<p align="center"> 
+   <img src="mail.png" height=200 width=200>  
+</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaizaadesuka&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizaadesuka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
