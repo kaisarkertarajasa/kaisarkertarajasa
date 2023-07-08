@@ -22,13 +22,16 @@
    - UNIX-like operating systems
    - Learning maths and programming
    - Moe artstyle
+   - Steak
+   - Sweet things
 
 **Things I don't like:**
-   - Spicy food
-   - Coffee (I'd prefer hot chocolate)
+   - Microsoft (especially Windows) and Apple
    - Programming languages: Python and Java
    - Bad software documentation
    - Digital bloat
+   - Spicy food
+   - Coffee (I'd prefer hot chocolate)
    - Social media
 
 <h3>How to get in touch?</h3>
