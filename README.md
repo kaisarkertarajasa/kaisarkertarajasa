@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-   A computer science student who loves to draw. Half weeb and half geek.
+   A computer science student who loves to draw. Half weeb and half geek. FLOSS enthusiast.
 </h3>
 
 ---
