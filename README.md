@@ -12,7 +12,7 @@
 
 - 💻 Regarding computer science and programming, I am into **intelligent systems**, **software engineering**, and some **low-level programming**.
 - 💪 I try my best to learn to produce **simple**, **secure**, **performant**, **clear**, and **well-documented** software. 
-- 🌱 I am now learning **Go**, **Rust**, **JavaScript**, **C++**, **Elixir**, and **Python**.
+- 🌱 I am now learning **Go**, **Rust**, **JavaScript**, **C++**, **Common Lisp**, and **Python**.
 - ♂️ I'm a male, btw.
 - Fun fact: I don't like Microsoft (especially Windows) and Apple, as well as Java programming language.
 
