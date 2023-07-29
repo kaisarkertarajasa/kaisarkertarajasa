@@ -13,7 +13,7 @@
 - 💻 I am interested in **intelligent systems**, and some **low-level programming**.
 - 🎯 I aim to develop **high-performance** software that are **secure by default**, **correct by logic**, and **well documented**.
 - 🤩 My favourite programming languages are **C** and **Python**, but I am interested to learn **Go** and **Typescript** as well.
-- ♂️ I'm a male, btw.
+- ♂ I'm a male, btw.
 
 ---
 
@@ -28,7 +28,7 @@
    <img src="https://img.shields.io/badge/Elixir-purple?style=for-the-badge&logo=Elixir&logoColor=white&color=%234B275F">
    <img src="https://img.shields.io/badge/FreeBSD-Red?style=for-the-badge&logo=FreeBSD&logoColor=white&color=%23AB2B28">
    <img src="https://img.shields.io/badge/Go-Blue?style=for-the-badge&logo=Go&logoColor=white&color=%2300ADD8">
-   <img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=Javascript&logoColor=white&color=%23F7DF1E">
+   <img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=Javascript&logoColor=black&color=%23F7DF1E">
    <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=Lua&logoColor=white&color=%232C2D72">
    <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white&color=%23000000">
    <img src="https://img.shields.io/badge/Neovim-green?style=for-the-badge&logo=Neovim&logoColor=white&color=%2357A143">
