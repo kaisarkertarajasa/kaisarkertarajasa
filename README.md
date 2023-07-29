@@ -20,8 +20,6 @@
 <h3 align="center">Languages and Tools</h3>
 
 <div align="center">
-   <img src="https://img.shields.io/badge/Alacritty-orange?style=for-the-badge&logo=Alacritty&logoColor=white&color=%23F46D01">
-   <img src="https://img.shields.io/badge/Arch_Linux-Blue?style=for-the-badge&logo=Arch%20Linux&logoColor=white&color=%231793D1">
    <img src="https://img.shields.io/badge/C-Gray?style=for-the-badge&logo=C&logoColor=white&color=%23A8B9CC">
    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=%2300599C">
    <img src="https://img.shields.io/badge/Clojure-blue?style=for-the-badge&logo=Clojure&logoColor=white&color=%235881D8">
@@ -29,6 +27,7 @@
    <img src="https://img.shields.io/badge/FreeBSD-Red?style=for-the-badge&logo=FreeBSD&logoColor=white&color=%23AB2B28">
    <img src="https://img.shields.io/badge/Go-Blue?style=for-the-badge&logo=Go&logoColor=white&color=%2300ADD8">
    <img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=Javascript&logoColor=black&color=%23F7DF1E">
+   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=black&color=%23FCC624">
    <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=Lua&logoColor=white&color=%232C2D72">
    <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white&color=%23000000">
    <img src="https://img.shields.io/badge/Neovim-green?style=for-the-badge&logo=Neovim&logoColor=white&color=%2357A143">
