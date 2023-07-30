@@ -29,8 +29,8 @@
    <img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=Javascript&logoColor=black&color=%23F7DF1E">
    <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=Linux&logoColor=black&color=%23FCC624">
    <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=Lua&logoColor=white&color=%232C2D72">
+   <img src="https://img.shields.io/badge/MariaDB-Blue?style=for-the-badge&logo=MariaDB&logoColor=white&color=%23003545">
    <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white&color=%23000000">
-   <img src="https://img.shields.io/badge/MySQL-Blue?style=for-the-badge&logo=MySQL&logoColor=white&color=%234479A1">
    <img src="https://img.shields.io/badge/Neovim-green?style=for-the-badge&logo=Neovim&logoColor=white&color=%2357A143">
    <img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=Node.JS&logoColor=white&color=%23339933">
    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white&color=%233776AB">
