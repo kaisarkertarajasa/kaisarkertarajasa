@@ -12,8 +12,8 @@
 
 - 💻 I am interested in **artificial intelligence**, **back-end** web development, and some **low-level programming**.
 - 🎯 I aim to develop **high-performance** software that are **secure by default**, **correct by logic**, and **well documented**.
-- 🤩 My favourite programming languages are **C**, **Go** and **Python**, but I am also interested to learn **Rust** and **Typescript**, as well as functional programming languages like **Clojure** and **Elixir**.
 - ♂ I'm a male, btw.
+- 🔥 Fun fact: My favourite programming language is C.
 
 ---
 
