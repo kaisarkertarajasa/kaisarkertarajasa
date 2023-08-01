@@ -10,10 +10,10 @@
 
 <h3>About Me</h3>
 
-- 💻 I am interested in **artificial intelligence**, **back-end** web development, and some **low-level programming**.
+- 💻 I am interested in **artificial intelligence**, **back-end** web development, and **low-level programming**.
 - 🎯 I aim to develop **high-performance** software that are **secure by default**, **correct by logic**, and **well documented**.
 - ♂ I'm a male, btw.
-- 🔥 Fun fact: My favourite programming language are **C** and **Go**.
+- 🔥 Fun fact: My favourite programming languages are **C** and **Go**.
 
 ---
 
