@@ -21,7 +21,6 @@
 <div align="center">
    <img src="https://img.shields.io/badge/C-Gray?style=for-the-badge&logo=C&logoColor=white&color=%23A8B9CC">
    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=%2300599C">
-   <img src="https://img.shields.io/badge/Clojure-blue?style=for-the-badge&logo=Clojure&logoColor=white&color=%235881D8">
    <img src="https://img.shields.io/badge/Elixir-purple?style=for-the-badge&logo=Elixir&logoColor=white&color=%234B275F">
    <img src="https://img.shields.io/badge/FreeBSD-Red?style=for-the-badge&logo=FreeBSD&logoColor=white&color=%23AB2B28">
    <img src="https://img.shields.io/badge/Go-Blue?style=for-the-badge&logo=Go&logoColor=white&color=%2300ADD8">
