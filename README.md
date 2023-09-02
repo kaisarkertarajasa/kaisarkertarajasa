@@ -10,7 +10,7 @@
 
 <h3>About Me</h3>
 
-- 💻 I am interested mostly in **intelligent systems**, **cybersecurity**, and **software development**.
+- 💻 I am interested mostly in **intelligent systems**, **Linux/UNIX**, and **software development**.
 - 🎯 I aim to develop **high-performance** software that are **secure by default**, **correct by logic**, and **well documented**.
 - ♂ I'm a male, btw.
 
@@ -31,10 +31,12 @@
    <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white&color=%23000000">
    <img src="https://img.shields.io/badge/Neovim-green?style=for-the-badge&logo=Neovim&logoColor=white&color=%2357A143">
    <img src="https://img.shields.io/badge/Node.JS-blue?style=for-the-badge&logo=Node.JS&logoColor=white&color=%23339933">
+   <img src="https://img.shields.io/badge/OpenJDK-White?style=for-the-badge&logo=openjdk&logoColor=%23000000&color=%23ffffff">
    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white&color=%233776AB">
    <img src="https://img.shields.io/badge/Rust-Black?style=for-the-badge&logo=Rust&logoColor=white&color=%23000000">
    <img src="https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=gnubash&logoColor=white&color=%234EAA25">
    <img src="https://img.shields.io/badge/SQLite-Blue?style=for-the-badge&logo=SQLite&logoColor=white&color=%23003B57">
+   <img src="https://img.shields.io/badge/TensorFlow-Orange?style=for-the-badge&logo=tensorflow&logoColor=%23ffffff&color=%23FF6F00">
    <img src="https://img.shields.io/badge/TypeScript-Blue?style=for-the-badge&logo=TypeScript&logoColor=white&color=%233178C6">
 </div>
 
