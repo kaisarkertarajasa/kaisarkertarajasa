@@ -10,7 +10,7 @@
 
 <h3>About Me</h3>
 
-- 💻 I am interested mostly in **intelligent systems**, **Linux/UNIX**, and **software development**.
+- 💻 I am interested mostly in **intelligent systems**, **cyber security**, and **software development**.
 - 🎯 I aim to develop **high-performance** software that are **secure by default**, **correct by logic**, and **well documented**.
 - ♂ I'm a male, btw.
 
