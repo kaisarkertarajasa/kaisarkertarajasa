@@ -1,5 +1,5 @@
 <div align="center">
-   Mainly programming in Python, C, and Go. Focused mainly on artificial intelligence and cyber security.   
+   Mostly programming in Python, C, and Go. Interested on artificial intelligence and cyber security.   
 </div>
 
 ---
