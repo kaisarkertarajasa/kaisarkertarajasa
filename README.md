@@ -1,5 +1,7 @@
 <div align="center">
-   <pre>Mostly programming in Python, C, and Go. Interested on artificial intelligence and cyber security.</pre>
+   <samp>
+      Mostly programming in Python, C, and Go. Interested on artificial intelligence and cyber security.
+   </samp>
 </div>
 
 ---
