@@ -1,6 +1,6 @@
 <div align="center">
    <samp>
-      Mostly programming in Python, C++, Java, and Go. Interested on artificial intelligence and cyber security.
+      Interested on artificial intelligence and cyber security.
    </samp>
 </div>
 
