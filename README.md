@@ -7,7 +7,7 @@
 </p>
 <ul>
   <li>
-    💻 I'm most interested in <b>artificial intelligence</b>, <b>cyber security</b>, and <b>software development</b>.
+    💻 I'm most interested in <b>Artificial Intelligence</b>, <b>Cyber Security</b>, <b>Software Engineering</b>, and <b>Theoretical Computer Science</b>.
   </li>
   <li>
     🎯 I always try my best to deliver high-quality software, prioritizing <b>correctness</b> and <b>maintanability</b>.
