@@ -13,7 +13,7 @@
     🎯 I am currently learing about: <b>deep learning</b>, <b>cryptography</b>, <b>reverse engineering</b>, <b>distributed systems</b>, and <b>backend development</b>.
   </li>
   <li>
-    📚 Natural Languages: Indonesian (native), English (B2), Mandarin Chinese, German 
+    📚 Natural Languages: Indonesian (native), English (B2), Mandarin Chinese, German, French
   </li>
   
   <li>
