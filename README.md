@@ -3,21 +3,36 @@
 </h1>
 
 <p>
-  My name is <b>Kaiz</b>, alias <b>Admie</b>. Both are my pseudonym, of course.
+  My name is <b>Kaiz</b> (of course it is my pen name). I'm a computer scientist wannabe with many interests. You can know more about me on my <a href="http://admiralkaiz.github.io">personal website</a>.
 </p>
 <ul>
-  <li>
-    💻 I'm most interested in <b>Artificial Intelligence</b>, <b>Cyber Security</b>, and <b>Theoretical Computer Science</b>.
-  </li>
   <li>
     🎯 I am currently learing about: <b>deep learning</b>, <b>cryptography</b>, <b>reverse engineering</b>, <b>distributed systems</b>, and <b>backend development</b>.
   </li>
   <li>
-    📚 Natural Languages: Indonesian (native), English (B2), Mandarin Chinese, German, French
+    🗣️ Natural Languages:
+    <ul>
+      <li> 🇮🇩 Indonesian (native) </li>
+      <li> 🇬🇧 English (B2) </li>
+      <li> 🇨🇳 Mandarin Chinese </li>
+      <li> 🇫🇷 French </li>
+      <li> 🇩🇪 German </li>
+    </ul>
   </li>
-  
   <li>
-    📚 Programming Languages: Primarily Python (main programming language), C, and Go.
+    ⌨️ Programming Languages:
+    <ul>
+      <li> Python (main) </li>
+      <li> C, C++ </li>
+      <li> Go </li>
+      <li> JavaScript, TypeScript </li>
+      <li> Rust </li>
+      <li> Elixir </li>
+      <li> Clojure </li>
+    </ul>
+  </li>
+  <li>
+    ⚡ <b>Fun fact</b>: I don't drink coffee.
   </li>
 </ul>
 
