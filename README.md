@@ -22,13 +22,11 @@
   <li>
     ⌨️ Programming Languages:
     <ul>
-      <li> Python (main) </li>
-      <li> C, C++ </li>
+      <li> Python </li>
+      <li> C++ </li>
       <li> Go </li>
-      <li> JavaScript, TypeScript </li>
-      <li> Rust </li>
-      <li> Elixir </li>
-      <li> Clojure </li>
+      <li> Java </li>
+      <li> JavaScript/TypeScript </li>
     </ul>
   </li>
   <li>
