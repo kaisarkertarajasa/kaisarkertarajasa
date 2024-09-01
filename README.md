@@ -13,8 +13,8 @@
     🗣️ Natural Languages:
     <ul>
       <li> 🇮🇩 Indonesian (native) </li>
-      <li> 🇬🇧 English (B2) </li>
-      <li> 🇨🇳 Mandarin Chinese </li>
+      <li> 🇬🇧 English (C2) </li>
+      <li> 🇨🇳 Mandarin Chinese (HSK 4) </li>
       <li> 🇫🇷 French </li>
       <li> 🇩🇪 German </li>
     </ul>
