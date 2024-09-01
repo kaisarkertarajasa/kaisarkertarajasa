@@ -23,7 +23,7 @@
     ⌨️ Programming Languages:
     <ul>
       <li> Python </li>
-      <li> C++ </li>
+      <li> C/C++ </li>
       <li> Go </li>
       <li> Java </li>
       <li> JavaScript/TypeScript </li>
