@@ -25,19 +25,16 @@
 ![Static Badge](https://img.shields.io/badge/archlinux-blue?style=for-the-badge&logo=archlinux&logoColor=%23FFFFFF&labelColor=%231793D1&color=%231793D1)
 ![Static Badge](https://img.shields.io/badge/apache-red?style=for-the-badge&logo=apache&logoColor=%23FFFFFF&labelColor=%23D22128&color=%23D22128)
 ![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF&labelColor=%237952B3&color=%237952B3)
-![Static Badge](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=%23FFFFFF&labelColor=%2300599C&color=%2300599C)
 ![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=%23FFFFFF&labelColor=%231572B6&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=%23FFFFFF&labelColor=%232496ED&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/duckdb-yelllow?style=for-the-badge&logo=duckdb&logoColor=%23000000&labelColor=%23FFF000&color=%23FFF000)
-![Static Badge](https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&labelColor=%234B275F&color=%234B275F)
 ![Static Badge](https://img.shields.io/badge/freebsd-red?style=for-the-badge&logo=freebsd&logoColor=%23FFFFFF&labelColor=%23AB2B28&color=%23AB2B28)
 ![Static Badge](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=%23FFFFFF&labelColor=%2300ADD8&color=%2300ADD8)
 ![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E&color=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=%23FFFFFF&labelColor=%23326CE5&color=%23326CE5)
 ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=%23FFFFFF&labelColor=%23FF2D20&color=%23FF2D20)
 ![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&labelColor=%234479A1&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF&labelColor=%235FA04E&color=%235FA04E)
@@ -56,6 +53,9 @@
 ![Static Badge](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=%23FFFFFF&labelColor=%23FF6F00&color=%23FF6F00)
 ![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&labelColor=%233178C6&color=%233178C6)
 
+<!-- ![Static Badge](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000) -->
+<!-- ![Static Badge](https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&labelColor=%234B275F&color=%234B275F) -->
+<!-- ![Static Badge](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=%23FFFFFF&labelColor=%23326CE5&color=%23326CE5) -->
 
 <details>
 <summary><h2>GitHub Stats</h2></summary>
