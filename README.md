@@ -35,6 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=%23FFFFFF&labelColor=%23326CE5&color=%23326CE5)
 ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=%23FFFFFF&labelColor=%23FF2D20&color=%23FF2D20)
 ![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&labelColor=%234479A1&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF&labelColor=%235FA04E&color=%235FA04E)
@@ -55,7 +56,7 @@
 
 <!-- ![Static Badge](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&labelColor=%234B275F&color=%234B275F) -->
-<!-- ![Static Badge](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=%23FFFFFF&labelColor=%23326CE5&color=%23326CE5) -->
+
 
 <details>
 <summary><h2>GitHub Stats</h2></summary>
