@@ -38,12 +38,10 @@
 ![Static Badge](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=%23FFFFFF&labelColor=%23326CE5&color=%23326CE5)
-![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=%23FFFFFF&labelColor=%23FF2D20&color=%23FF2D20)
 ![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&labelColor=%234479A1&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF&labelColor=%235FA04E&color=%235FA04E)
 ![Static Badge](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy&logoColor=%23FFFFFF&labelColor=%23013243&color=%23013243)
 ![Static Badge](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoColor=%23FFFFFF&labelColor=%23150458&color=%23150458)
-![Static Badge](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=%23FFFFFF&labelColor=%23777BB4&color=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/podman-purple?style=for-the-badge&logo=podman&logoColor=%23FFFFFF&labelColor=%23892CA0&color=%23892CA0)
 ![Static Badge](https://img.shields.io/badge/polars-orange?style=for-the-badge&logo=polars&logoColor=%23FFFFFF&labelColor=%23CD792C&color=%23CD792C)
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=%23FFFFFF&labelColor=%233776AB&color=%233776AB)
@@ -57,6 +55,8 @@
 ![Static Badge](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=%23FFFFFF&labelColor=%23FF6F00&color=%23FF6F00)
 ![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&labelColor=%233178C6&color=%233178C6)
 
+<!-- ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=%23FFFFFF&labelColor=%23FF2D20&color=%23FF2D20) -->
+<!-- ![Static Badge](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=%23FFFFFF&labelColor=%23777BB4&color=%23777BB4) -->
 <!-- ![Static Badge](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000) -->
 <!--  -->
 
