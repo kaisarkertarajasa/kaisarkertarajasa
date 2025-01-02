@@ -45,8 +45,6 @@
 ![Static Badge](https://img.shields.io/badge/polars-orange?style=for-the-badge&logo=polars&logoColor=%23FFFFFF&labelColor=%23CD792C&color=%23CD792C)
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=%23FFFFFF&labelColor=%233776AB&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoColor=%23FFFFFF&labelColor=%23EE4C2C&color=%23EE4C2C)
-![Static Badge](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&labelColor=%23CC342D&color=%23CC342D)
-![Static Badge](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/scikitlearn-orange?style=for-the-badge&logo=scikitlearn&logoColor=%23FFFFFF&labelColor=%23F7931E&color=%23F7931E)
 ![Static Badge](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23%234EAA25&color=%23%234EAA25)
 ![Static Badge](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=%23FFFFFF&labelColor=%236DB33F&color=%236DB33F)
@@ -57,6 +55,8 @@
 <!-- ![Static Badge](https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&labelColor=%234B275F&color=%234B275F) -->
 <!-- ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=%23FFFFFF&labelColor=%23FF2D20&color=%23FF2D20) -->
 <!-- ![Static Badge](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=%23FFFFFF&labelColor=%23777BB4&color=%23777BB4) -->
+<!-- ![Static Badge](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&labelColor=%23CC342D&color=%23CC342D) -->
+<!-- ![Static Badge](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000) -->
 <!--  -->
 
