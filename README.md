@@ -22,6 +22,9 @@
   Tech Stack
 </h2>
 
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,c,cpp,go,js,ts,nodejs,java,rust,docker,nginx,linux,windows&perline=15)](https://skillicons.dev)
+
+<!--
 ![Static Badge](https://img.shields.io/badge/apache-red?style=for-the-badge&logo=apache&logoColor=%23FFFFFF&labelColor=%23D22128&color=%23D22128)
 ![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF&labelColor=%237952B3&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
@@ -51,6 +54,7 @@
 ![Static Badge](https://img.shields.io/badge/sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=%23FFFFFF&labelColor=%23003B57&color=%23003B57)
 ![Static Badge](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=%23FFFFFF&labelColor=%23FF6F00&color=%23FF6F00)
 ![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&labelColor=%233178C6&color=%233178C6)
+-->
 
 <!-- ![Static Badge](https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&labelColor=%234B275F&color=%234B275F) -->
 <!-- ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=%23FFFFFF&labelColor=%23FF2D20&color=%23FF2D20) -->
